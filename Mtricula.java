@@ -1,4 +1,4 @@
-public class Mtriculas{
+public class Mtricula{
 
 
 
